@@ -1,0 +1,1 @@
+This is a content of a file which is created on sushant's local repository SushantRepoForOS2 of virtual machine having IP Address 192.168.40.128
